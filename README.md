@@ -1,6 +1,11 @@
 # Mirai-NLP-Notebook
 Mirai-NLP训练笔记本
 
+## Updates
+
+### 2022.10.3
+修复了gpt2-chinese模型中过短的训练数据无法被收录的的问题
+
 ## 使用方法
 
 - 收集并导出对应格式数据
